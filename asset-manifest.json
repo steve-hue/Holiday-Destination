@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Holiday-Destination/static/css/main.fc08c26b.chunk.css",
+    "main.js": "/Holiday-Destination/static/js/main.e57bd47f.chunk.js",
+    "main.js.map": "/Holiday-Destination/static/js/main.e57bd47f.chunk.js.map",
+    "runtime-main.js": "/Holiday-Destination/static/js/runtime-main.53979ab1.js",
+    "runtime-main.js.map": "/Holiday-Destination/static/js/runtime-main.53979ab1.js.map",
+    "static/js/2.3a415b01.chunk.js": "/Holiday-Destination/static/js/2.3a415b01.chunk.js",
+    "static/js/2.3a415b01.chunk.js.map": "/Holiday-Destination/static/js/2.3a415b01.chunk.js.map",
+    "index.html": "/Holiday-Destination/index.html",
+    "static/css/main.fc08c26b.chunk.css.map": "/Holiday-Destination/static/css/main.fc08c26b.chunk.css.map",
+    "static/js/2.3a415b01.chunk.js.LICENSE.txt": "/Holiday-Destination/static/js/2.3a415b01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53979ab1.js",
+    "static/js/2.3a415b01.chunk.js",
+    "static/css/main.fc08c26b.chunk.css",
+    "static/js/main.e57bd47f.chunk.js"
+  ]
+}
